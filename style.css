@@ -1,0 +1,47 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: floralwhite;
+}
+
+.img-container,
+.recipe-list {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    color: rgb(21, 30, 31);
+    font-weight: bold;
+}
+
+.page-title {
+    font-size: 48px;
+}
+
+.recipe-title {
+    font-size: 22px;
+}
+
+.image {
+    width: 500px;
+    height: auto;
+}
+
+.recipe-list {
+    list-style-type: none;
+}
+
+.recipe {
+    font-weight: bold;
+    color:rgb(82, 8, 8);
+    text-decoration: none;
+}
+
+.recipe:hover {
+    color:brown;
+}
+
+.list {
+    margin-top: -5px;
+}
+
